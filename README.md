@@ -18,9 +18,13 @@ The program allows the user to add elements to the end of the list using a separ
 ## Sample Output
 
 Enter number of elements: 3
+
 Enter element 1: 10
+
 Enter element 2: 20
+
 Enter element 3: 30
+
 10 -> 20 -> 30 -> null
 
 ## Technologies Used
