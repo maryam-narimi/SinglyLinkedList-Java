@@ -31,6 +31,11 @@ Enter element 3: 30
 - Java
 - NetBeans IDE
 
+## Academic Purpose 
+
+This project is created for the **Data Structures** course.
+
+
 ## Author
 
 **Maryam Narimi**
