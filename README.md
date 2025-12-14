@@ -9,14 +9,6 @@ The program allows the user to add elements to the end of the list using a separ
 - User input using `Scanner`
 - Print all elements of the list
 
-## Project Structure
-
-SinglyLinkedList/
-│
-├── SinglyLinkedList.java
-├── Main.java
-└── README.md
-
 ## How to Run
 1. Open the project in **NetBeans**
 2. Run `Main.java`
